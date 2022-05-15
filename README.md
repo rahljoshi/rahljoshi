@@ -59,9 +59,9 @@ rahljoshi@github
 
 ### Socials
 <p>
-  <a href="https://twitter.com/rahljoshi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rahljoshi/" target="_blank"><img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/sgq5lbprukppgaj0ydn86lg95?si=5a6f512813e0490a" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760.svg?&logo=spotify&logoColor=white"></a>
+  <a href="https://twitter.com/rahljoshi" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rahljoshi/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&logo=linkedin&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/sgq5lbprukppgaj0ydn86lg95?si=5a6f512813e0490a" target="_blank" rel="noopener noreferrer"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760.svg?&logo=spotify&logoColor=white"></a>
  </p> 
 
 
